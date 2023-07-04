@@ -22,7 +22,7 @@ import axios from "axios";
 import ScrollableChat from "./ScrollableChat";
 import "./Styles.css";
 import io from "socket.io-client";
-import Lottie from "react-lottie";
+import Lottie from "lottie-react";
 import animationData from "../animations/Typing.json"
 
 const ENDPOINT = "http://localhost:3000";
