@@ -18,7 +18,7 @@
     "framer-motion": "^10.12.16",
     "lottie-react": "^2.4.0",
     "prop-types": "^15.8.1",
-    "react": "^18.2.0",
+    "react": "^16.8.6",
     "react-dom": "^18.2.0",
     "react-notification-badge": "^1.5.1",
     "react-router-dom": "^6.13.0",
